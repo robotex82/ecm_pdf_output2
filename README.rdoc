@@ -1,0 +1,3 @@
+= Ecm::PdfOutput
+
+This project rocks and uses MIT-LICENSE.
